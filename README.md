@@ -1,16 +1,33 @@
-# React + Vite
+🧠 Habit Tracker (React)
+A simple and motivating Habit Tracker built with React to help users build consistency—especially for daily coding practice.
+The app focuses on clarity, usability, and smooth interactions rather than unnecessary complexity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Users can create habits, mark them as completed for the day, track progress visually, and stay consistent with the help of subtle animations and thoughtful UX decisions.
 
-Currently, two official plugins are available:
+✨ Features
+Add and delete habits
+Mark habits as completed for the current day
+Prevent duplicate habits
+Clean and minimal UI for focus
+Smooth animations for habit actions
+Persistent data using browser storage
+Designed to encourage daily consistency
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+React (functional components & hooks)
+Framer Motion (for smooth animations)
+CSS (minimal, clean styling)
+LocalStorage (data persistence)
 
-## React Compiler
+🎯 Purpose of the Project
+This project was built to:
+Strengthen React fundamentals through a real-world use case
+Practice component design, state management, and side effects
+Learn how to add animations without breaking logic
+Build a tool that supports a real personal goal: developing a daily coding habit
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Learning Outcomes
+Better understanding of React state & data flow
+Writing cleaner, more maintainable components
+Improving UX through small but meaningful details
+Gaining confidence in building complete, polished projects
